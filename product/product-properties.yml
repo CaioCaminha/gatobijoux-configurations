@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://gatobijoux:Gatobijoux123@cluster0.wnx9l.mongodb.net/gatobijoux?retryWrites=true&w=majority
